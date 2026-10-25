@@ -1,0 +1,18 @@
+[project]
+name = "alpha-school-coach"
+version = "1.0.0"
+description = "Claude Project instructions and a small progress logger for a mastery-based home learning routine."
+readme = "README.md"
+license = { text = "MIT" }
+authors = [{ name = "Mark Valderrama" }]
+requires-python = ">=3.10"
+dependencies = []
+
+[project.urls]
+Repository = "https://github.com/markvalderrama001-svg/alpha-school-coach"
+
+[project.optional-dependencies]
+dev = ["pytest>=8.0"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

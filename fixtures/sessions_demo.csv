@@ -1,0 +1,13 @@
+date,learner,subject,skill,lesson,attempt,accuracy_pct,questions,minutes,tutor_used
+2026-10-19,Sam,Math,Equivalent fractions,M-101,1,90,10,9,N
+2026-10-19,Sam,Math,Equivalent fractions,M-102,1,100,10,10,N
+2026-10-19,Sam,Reading,Main idea,R-201,1,80,8,12,N
+2026-10-20,Sam,Math,Adding unlike fractions,M-103,1,60,10,3,N
+2026-10-20,Sam,Math,Adding unlike fractions,M-103,2,85,10,11,Y
+2026-10-20,Sam,Math,Adding unlike fractions,M-104,1,70,10,10,Y
+2026-10-22,Sam,Math,Adding unlike fractions,M-104,2,80,10,12,N
+2026-10-22,Sam,Reading,Main idea,R-202,1,75,8,10,N
+2026-10-22,Sam,Reading,Main idea,R-202,2,88,8,9,Y
+2026-10-24,Sam,Math,Adding unlike fractions,M-105,1,90,10,10,N
+2026-10-24,Sam,Reading,Making inferences,R-203,1,72,8,11,Y
+2026-10-24,Sam,Math,Equivalent fractions,M-106,1,95,10,8,N

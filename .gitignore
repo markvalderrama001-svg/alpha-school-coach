@@ -1,0 +1,24 @@
+# Secrets (none needed, kept for consistency)
+.env
+.env.*
+!.env.example
+.dev.vars
+*token*.json
+
+# Real family logs and runtime output (never committed)
+data/
+output/
+logs/
+my-week*.csv
+summary.md
+*.db
+*.log
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+*.egg-info/
+
+node_modules/
